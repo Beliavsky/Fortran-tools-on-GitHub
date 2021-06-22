@@ -8,6 +8,8 @@
 
 [hipfort](https://github.com/ROCmSoftwarePlatform/hipfort): Fortran Interface For GPU Kernel Libraries
 
+[irep](https://github.com/LLNL/irep): tool for filling C/C++ or Fortran data structures from Lua input tables, from LLNL
+
 [mkhelper](https://github.com/skosukhin/mkhelper): collection of utilities to be used with GNU Autoconf and GNU Make for building Fortran projects, by skosukhin
 
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
