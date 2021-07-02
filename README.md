@@ -19,5 +19,7 @@ MPI-3.1 standard from the Argonne National Laboratory
 
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
 
+[run-fortran](https://github.com/lycantropos/run-fortran): sorting Fortran files based on modules definitions and usages, by lycantropos
+
 [xcc-project](https://github.com/JianpingZeng/xcc-project): C/C++/Fortran compiler collection written in Java, by JianpingZeng
 
