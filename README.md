@@ -1,10 +1,12 @@
 ### Fortran tools on GitHub -- compilers, preprocessors, static analyzers, transpilers, and interoperability tools
 
+[ajt-fortran.vim](https://github.com/robertodr/ajt-fortran.vim): port of Ajit J. Thakkar's Vim indent script
+
 [automates](https://github.com/ml4ai/automates): Automated Model Assembly from Text, Equations, and Software, from ml4ai
 
 [camfort](https://github.com/camfort/camfort): refactoring and verification tool for scientific Fortran programs. It currently supports Fortran 66, 77, and 90 with various legacy extensions.
 
-[findent](https://github.com/wvermin/findent): indent and convert Fortran sources, by wvermin
+[findent](https://github.com/MFTabriz/findent): indent and convert Fortran sources, by wvermin and MFTabriz
 
 [flang](https://github.com/flang-compiler/flang): flang (also known as "Classic Flang") is an out-of-tree Fortran compiler targeting LLVM. It is an open-sourced version of pgfortran, a commercial Fortran compiler from PGI/NVIDIA
 
@@ -15,6 +17,8 @@
 [fortrancallgraph](https://github.com/fortesg/fortrancallgraph): static source code analysis for Fortran, tracking variables in a routine's callgraph, from fortesg
 
 [fortran-callgraph](https://github.com/hydro-jules/fortran-callgraph): Tool to create call graphs from JULES source code
+
+[FortranIndent](https://github.com/Kairzhan/FortranIndent): tools to indent Fortran 90 sources, from Kairzhan
 
 [FortranTestGenerator](https://github.com/fortesg/fortrantestgenerator): or automatically generating unit tests for subroutines of existing Fortran applications based on an approach called Capture & Replay, from fortesg
 
@@ -29,6 +33,8 @@
 [hipfort](https://github.com/ROCmSoftwarePlatform/hipfort): Fortran Interface For GPU Kernel Libraries
 
 [i-CodeCNES](https://github.com/cnescatlab/i-CodeCNES): static code analysis tool to help developers write code compliant with CNES coding rules for Fortran 77, Fortran 90 and Shell, from cnescatlab
+
+[IndentPatternFortran](https://github.com/JHenneberg/IndentPatternFortran): general indentation patterns for Fortran, by JHenneberg
 
 [irep](https://github.com/LLNL/irep): tool for filling C/C++ or Fortran data structures from Lua input tables, from LLNL
 
@@ -48,6 +54,8 @@ MPI-3.1 standard from the Argonne National Laboratory
 [run-fortran](https://github.com/lycantropos/run-fortran): sorting Fortran files based on modules definitions and usages, by lycantropos
 
 [vimf90](https://github.com/rudrab/vimf90): Fortran ide for vim
+
+[vim-findent](https://github.com/cradesto/vim-findent): Vim plugin for Findent (indent fortran sources), by cradesto
 
 [xcc-project](https://github.com/JianpingZeng/xcc-project): C/C++/Fortran compiler collection written in Java, by JianpingZeng
 
