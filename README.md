@@ -8,11 +8,19 @@
 
 [fortiel](https://github.com/Jhuighuy/fortiel): Fortran preprocessor and metaprogramming engine, by Jhuighuy
 
+[fortlint](https://github.com/ratnania/fortlint): Fortran static source code analysis for more secured and bug free applications
+
+[fortrancallgraph](https://github.com/fortesg/fortrancallgraph): static source code analysis for Fortran, tracking variables in a routine's callgraph, from fortesg
+
 [fortran-callgraph](https://github.com/hydro-jules/fortran-callgraph): Tool to create call graphs from JULES source code
+
+[FortranTestGenerator](https://github.com/fortesg/fortrantestgenerator): or automatically generating unit tests for subroutines of existing Fortran applications based on an approach called Capture & Replay, from fortesg
 
 [fossil](https://github.com/nrwade0/Fossil): Fortran IDE designed in Python by someone eager to learn Fortran but in an easy and accessible way, by nrwade0
 
 [Fortran Package Manager for Visual Studio](https://github.com/everythingfunctional/fpm-for-VS): adds options and menu entries for building, running and testing your Fortran project using the Fortran Package Manager (fpm), by everythingfunctional
+
+[fsource](https://github.com/mwallerb/fsource): Fortran static analysis tool written in pure Python, by mwallerb
 
 [hipfort](https://github.com/ROCmSoftwarePlatform/hipfort): Fortran Interface For GPU Kernel Libraries
 
