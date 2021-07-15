@@ -6,6 +6,7 @@
 * [Parallel Programming](#parallel-programming)
 * [Preprocessors](#preprocessors)
 * [Static Analysis](#static-analysis)
+* [Text Editors and Integrated Development Environments](#ide)
 * [Translation to Fortran](#translation-to-fortran)
 
 ### Build Tools
@@ -69,6 +70,8 @@ from sourceryinstitute
 [fsource](https://github.com/mwallerb/fsource): Fortran static analysis tool written in pure Python, by mwallerb
 
 [i-CodeCNES](https://github.com/cnescatlab/i-CodeCNES): static code analysis tool to help developers write code compliant with CNES coding rules for Fortran 77, Fortran 90 and Shell, from cnescatlab
+
+### Text Editors and Integrated Development Environments
 
 ### Translation to Fortran
 [matlab2fortran](https://github.com/ebranlard/matlab2fortran): performs some simple conversions from Matlab code to Fortran, by ebranlard
