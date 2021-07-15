@@ -8,7 +8,7 @@
 * [Parallel Programming](#parallel-programming)
 * [Preprocessors](#preprocessors)
 * [Static Analysis](#static-analysis)
-* [Text Editors and Integrated Development Environments](#text-editors-and-integrated-development-environments)
+* [Text Editors, Plugins, and Integrated Development Environments](#text-editors-plugins-and-integrated-development-environments)
 * [Translation to Fortran](#translation-to-fortran)
 * [Unclassified](#unclassified)
 
@@ -96,7 +96,7 @@ from sourceryinstitute
 
 [i-CodeCNES](https://github.com/cnescatlab/i-CodeCNES): static code analysis tool to help developers write code compliant with CNES coding rules for Fortran 77, Fortran 90 and Shell, from cnescatlab
 
-### Text Editors and Integrated Development Environments
+### Text Editors, Plugins, and Integrated Development Environments
 [fossil](https://github.com/nrwade0/Fossil): Fortran IDE designed in Python by someone eager to learn Fortran but in an easy and accessible way, by nrwade0
 
 [vimf90](https://github.com/rudrab/vimf90): Fortran ide for vim
