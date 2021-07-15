@@ -6,7 +6,7 @@
 * [Parallel Programming](#parallel-programming)
 * [Preprocessors](#preprocessors)
 * [Static Analysis](#static-analysis)
-* [Text Editors and Integrated Development Environments](#ide)
+* [Text Editors and Integrated Development Environments](#text-editors-and-integrated-development-environments)
 * [Translation to Fortran](#translation-to-fortran)
 
 ### Build Tools
