@@ -15,9 +15,13 @@
 
 [fpm](https://github.com/fortran-lang/fpm): Fortran Package Manager (fpm) is a package manager and build system for Fortran, from fortran-lang
 
+[jams_makefile](https://github.com/mcuntz/jams_makefile): provides a portable, versatile way of compiling Fortran, C, C++, and mixed projects, by mcuntz
+
 [meson](https://github.com/mesonbuild/meson): next-generation build system
 
 [mkhelper](https://github.com/skosukhin/mkhelper): collection of utilities to be used with GNU Autoconf and GNU Make for building Fortran projects, by skosukhin
+
+[run-fortran](https://github.com/lycantropos/run-fortran): sorting Fortran files based on modules definitions and usages, by lycantropos
 
 ### Compilers
 [f18-llvm-project](https://github.com/flang-compiler/f18-llvm-project): fork of llvm/llvm-project for f18. In sync with f18-mlir and f18.
@@ -34,6 +38,8 @@
 [findent](https://github.com/MFTabriz/findent): indent and convert Fortran sources, by wvermin and MFTabriz
 
 [FortranIndent](https://github.com/Kairzhan/FortranIndent): tools to indent Fortran 90 sources, from Kairzhan
+
+[IndentPatternFortran](https://github.com/JHenneberg/IndentPatternFortran): general indentation patterns for Fortran, by JHenneberg
 
 ### Parallel Programming
 [hipfort](https://github.com/ROCmSoftwarePlatform/hipfort): Fortran Interface For GPU Kernel Libraries
@@ -81,15 +87,9 @@ from sourceryinstitute
 
 [fytest](https://github.com/aradi/fytest): lightweight unit testing framework for Fortran, by aradi. Thanks to its header-only design, it can be easily bundled with any Fortran project without creating extra dependencies.
 
-[IndentPatternFortran](https://github.com/JHenneberg/IndentPatternFortran): general indentation patterns for Fortran, by JHenneberg
-
 [irep](https://github.com/LLNL/irep): tool for filling C/C++ or Fortran data structures from Lua input tables, from LLNL
 
-[jams_makefile](https://github.com/mcuntz/jams_makefile): provides a portable, versatile way of compiling Fortran, C, C++, and mixed projects, by mcuntz
-
 [OpenAD](https://github.com/Augertron/OpenAD): tool for automatic differentiation (AD) of numerical computer programs
-
-[run-fortran](https://github.com/lycantropos/run-fortran): sorting Fortran files based on modules definitions and usages, by lycantropos
 
 [vimf90](https://github.com/rudrab/vimf90): Fortran ide for vim
 
