@@ -3,6 +3,7 @@
 * [Build Tools](#build-tools)
 * [Compilers](#compilers)
 * [Indentation](#indentation)
+* [Parallel Programming](#parallel-programming)
 * [Preprocessors](#preprocessors)
 * [Static Analysis](#static-analysis)
 
@@ -32,6 +33,15 @@
 [findent](https://github.com/MFTabriz/findent): indent and convert Fortran sources, by wvermin and MFTabriz
 
 [FortranIndent](https://github.com/Kairzhan/FortranIndent): tools to indent Fortran 90 sources, from Kairzhan
+
+### Parallel Programming
+[hipfort](https://github.com/ROCmSoftwarePlatform/hipfort): Fortran Interface For GPU Kernel Libraries
+
+[mpich](https://github.com/pmodels/mpich): high-performance and widely portable implementation of the
+MPI-3.1 standard from the Argonne National Laboratory
+
+[OpenCoarrays](https://github.com/sourceryinstitute/opencoarrays): supports Fortran 2018 compilers by providing a parallel application binary interface (ABI) that abstracts away the underlying parallel programming model, which can be the Message Passing Interface (MPI) or OpenSHMEM, 
+from sourceryinstitute
 
 ### Preprocessors
 [fortiel](https://github.com/Jhuighuy/fortiel): Fortran preprocessor and metaprogramming engine, by Jhuighuy
@@ -65,8 +75,6 @@
 
 [fytest](https://github.com/aradi/fytest): lightweight unit testing framework for Fortran, by aradi. Thanks to its header-only design, it can be easily bundled with any Fortran project without creating extra dependencies.
 
-[hipfort](https://github.com/ROCmSoftwarePlatform/hipfort): Fortran Interface For GPU Kernel Libraries
-
 [IndentPatternFortran](https://github.com/JHenneberg/IndentPatternFortran): general indentation patterns for Fortran, by JHenneberg
 
 [irep](https://github.com/LLNL/irep): tool for filling C/C++ or Fortran data structures from Lua input tables, from LLNL
@@ -75,13 +83,7 @@
 
 [matlab2fortran](https://github.com/ebranlard/matlab2fortran): performs some simple conversions from Matlab code to Fortran, by ebranlard
 
-[mpich](https://github.com/pmodels/mpich): high-performance and widely portable implementation of the
-MPI-3.1 standard from the Argonne National Laboratory
-
 [OpenAD](https://github.com/Augertron/OpenAD): tool for automatic differentiation (AD) of numerical computer programs
-
-[OpenCoarrays](https://github.com/sourceryinstitute/opencoarrays): supports Fortran 2018 compilers by providing a parallel application binary interface (ABI) that abstracts away the underlying parallel programming model, which can be the Message Passing Interface (MPI) or OpenSHMEM, 
-from sourceryinstitute
 
 [pyccel](https://github.com/pyccel/pyccel): Pyccel can be viewed as a Python-to-Fortran/C converter or a compiler for a Domain Specific Language with Python syntax
 
