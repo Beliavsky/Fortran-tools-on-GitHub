@@ -6,6 +6,7 @@
 * [Parallel Programming](#parallel-programming)
 * [Preprocessors](#preprocessors)
 * [Static Analysis](#static-analysis)
+* [Translation to Fortran](#translation-to-fortran)
 
 ### Build Tools
 [FCM](https://github.com/metomi/fcm): modern Fortran build system + wrappers to Subversion for scientific software development, from metomi
@@ -63,6 +64,11 @@ from sourceryinstitute
 
 [i-CodeCNES](https://github.com/cnescatlab/i-CodeCNES): static code analysis tool to help developers write code compliant with CNES coding rules for Fortran 77, Fortran 90 and Shell, from cnescatlab
 
+### Translation to Fortran
+[matlab2fortran](https://github.com/ebranlard/matlab2fortran): performs some simple conversions from Matlab code to Fortran, by ebranlard
+
+[pyccel](https://github.com/pyccel/pyccel): Pyccel can be viewed as a Python-to-Fortran/C converter or a compiler for a Domain Specific Language with Python syntax
+
 [automates](https://github.com/ml4ai/automates): Automated Model Assembly from Text, Equations, and Software, from ml4ai
 
 [ford](https://github.com/Fortran-FOSS-Programmers/ford): Automatically generates FORtran Documentation from comments within the code, from Fortran-FOSS-Programmers
@@ -81,11 +87,7 @@ from sourceryinstitute
 
 [jams_makefile](https://github.com/mcuntz/jams_makefile): provides a portable, versatile way of compiling Fortran, C, C++, and mixed projects, by mcuntz
 
-[matlab2fortran](https://github.com/ebranlard/matlab2fortran): performs some simple conversions from Matlab code to Fortran, by ebranlard
-
 [OpenAD](https://github.com/Augertron/OpenAD): tool for automatic differentiation (AD) of numerical computer programs
-
-[pyccel](https://github.com/pyccel/pyccel): Pyccel can be viewed as a Python-to-Fortran/C converter or a compiler for a Domain Specific Language with Python syntax
 
 [run-fortran](https://github.com/lycantropos/run-fortran): sorting Fortran files based on modules definitions and usages, by lycantropos
 
