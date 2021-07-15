@@ -4,6 +4,7 @@
 * [Compilers](#compilers)
 * [Fixed to Free Source Form Conversion](#fixed-to-free-source-form-conversion)
 * [Indentation and Formatting](#indentation-and-formatting)
+* [Interoperability](#interoperability)
 * [Parallel Programming](#parallel-programming)
 * [Preprocessors](#preprocessors)
 * [Static Analysis](#static-analysis)
@@ -60,6 +61,9 @@
 [fprettify](https://github.com/pseewald/fprettify): auto-formatter for modern Fortran code that imposes strict whitespace formatting, written in Python, by pseewald
 
 [IndentPatternFortran](https://github.com/JHenneberg/IndentPatternFortran): general indentation patterns for Fortran, by JHenneberg
+
+### Interoperability
+[f90wrap](https://github.com/jameskermode/f90wrap): Fortran 90 to Python interface generator with derived type support, by jameskermode et al.
 
 ### Parallel Programming
 [hipfort](https://github.com/ROCmSoftwarePlatform/hipfort): Fortran Interface For GPU Kernel Libraries
