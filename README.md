@@ -8,7 +8,7 @@
 * [Parallel Programming](#parallel-programming)
 * [Preprocessors](#preprocessors)
 * [Static Analysis](#static-analysis)
-* [Text Editors, Plugins, and Integrated Development Environments](#text-editors-plugins-and-integrated-development-environments)
+* [Text Editors, Integrated Development Environments, and Plugins](#text-editors-integrated-development-environments-and-plugins)
 * [Translation to Fortran](#translation-to-fortran)
 * [Unclassified](#unclassified)
 
@@ -96,7 +96,7 @@ from sourceryinstitute
 
 [i-CodeCNES](https://github.com/cnescatlab/i-CodeCNES): static code analysis tool to help developers write code compliant with CNES coding rules for Fortran 77, Fortran 90 and Shell, from cnescatlab
 
-### Text Editors, Plugins, and Integrated Development Environments
+### Text Editors, Integrated Development Environments, and Plugins
 [fortran.tmbundle](https://github.com/textmate/fortran.tmbundle): TextMate support for Fortran. TextMate is a graphical text editor for macOS 10.12 or later.
 
 [fossil](https://github.com/nrwade0/Fossil): Fortran IDE designed in Python by someone eager to learn Fortran but in an easy and accessible way, by nrwade0
