@@ -51,6 +51,8 @@
 
 [GConvert](https://github.com/GeorgeTsikas/GConvert): program to convert fixed form Fortran into code that works as fixed or free form, by GeorgeTsikas.
 
+[to_f90](https://github.com/jbdv-no/to_f90) Alan Miller's tool for converting Fortran 77 code to free-form Fortran 90 code, from jbdv-no
+
 ### Indentation and Formatting
 [ajt-fortran.vim](https://github.com/robertodr/ajt-fortran.vim): port of Ajit J. Thakkar's Vim indent script
 
