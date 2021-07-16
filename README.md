@@ -110,6 +110,8 @@ from sourceryinstitute
 ### Translation to Fortran
 [matlab2fortran](https://github.com/ebranlard/matlab2fortran): performs some simple conversions from Matlab code to Fortran, by ebranlard
 
+[Mc2For](https://github.com/Sable/Mc2For): MATLAB to Fortran compiler, from Sable
+
 [pyccel](https://github.com/pyccel/pyccel): Pyccel can be viewed as a Python-to-Fortran/C converter or a compiler for a Domain Specific Language with Python syntax
 
 ### Unclassified
