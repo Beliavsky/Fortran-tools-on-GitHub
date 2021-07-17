@@ -124,6 +124,8 @@ from sourceryinstitute
 [fortran2julia](https://github.com/algorithmx/fortran2julia): Python script to translate Fortran 90 to Julia, by algorithmx
 
 ### Translation to Fortran
+[c2f](https://github.com/Beliavsky/c2f): partial C to Fortran translator by David Frank
+
 [matlab2fortran](https://github.com/ebranlard/matlab2fortran): performs some simple conversions from Matlab code to Fortran, by ebranlard
 
 [Mc2For](https://github.com/Sable/Mc2For): MATLAB to Fortran compiler, from Sable
