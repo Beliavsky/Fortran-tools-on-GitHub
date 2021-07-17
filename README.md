@@ -109,6 +109,8 @@ from sourceryinstitute
 
 [flint](https://github.com/JonasToth/flint): Little linter for Fortran, with static analysis and formatting, by JonasToth
 
+[flint](https://github.com/marshallward/flint): aspires to be a Fortran parser, delinter, and analyser, by marshallward. For now, it is a Fortran tokenizer, with tools for parsing and automated documentation.
+
 [fortlint](https://github.com/ratnania/fortlint): Fortran static source code analysis for more secured and bug free applications
 
 [fortrancallgraph](https://github.com/fortesg/fortrancallgraph): static source code analysis for Fortran, tracking variables in a routine's callgraph, from fortesg
