@@ -9,6 +9,7 @@
 * [Preprocessors](#preprocessors)
 * [Static Analysis](#static-analysis)
 * [Text Editors, Integrated Development Environments, and Plugins](#text-editors-integrated-development-environments-and-plugins)
+* [Translation from Fortran](#translation-from-fortran)
 * [Translation to Fortran](#translation-to-fortran)
 * [Unclassified](#unclassified)
 
@@ -112,6 +113,9 @@ from sourceryinstitute
 [vimf90](https://github.com/rudrab/vimf90): Fortran ide for vim
 
 [vim-findent](https://github.com/cradesto/vim-findent): Vim plugin for Findent (indent fortran sources), by cradesto
+
+### Translation from Fortran
+[fortran2julia](https://github.com/algorithmx/fortran2julia): Python script to translate Fortran 90 to Julia, by algorithmx
 
 ### Translation to Fortran
 [matlab2fortran](https://github.com/ebranlard/matlab2fortran): performs some simple conversions from Matlab code to Fortran, by ebranlard
