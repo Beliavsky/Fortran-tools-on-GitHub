@@ -112,11 +112,7 @@ from sourceryinstitute
 
 [fossil](https://github.com/nrwade0/Fossil): Fortran IDE designed in Python by someone eager to learn Fortran but in an easy and accessible way, by nrwade0
 
-[vim](https://github.com/vim/vim): improved version of the UNIX editor Vi. Many new features have been added: multi-level undo, syntax highlighting, command line history, on-line help, spell checking, filename completion, block operations, script language, etc. Download [here](https://www.vim.org/download.php)
-
-[vimf90](https://github.com/rudrab/vimf90): Fortran ide for vim
-
-[vim-findent](https://github.com/cradesto/vim-findent): Vim plugin for Findent (indent fortran sources), by cradesto
+[vim](https://github.com/vim/vim): improved version of the UNIX editor Vi. Many new features have been added: multi-level undo, syntax highlighting, command line history, on-line help, spell checking, filename completion, block operations, script language, etc. Download [here](https://www.vim.org/download.php). [vimf90](https://github.com/rudrab/vimf90) is a Fortran ide for vim. [vim-findent](https://github.com/cradesto/vim-findent) is a vim plugin for Findent (indent fortran sources), by cradesto
 
 ### Translation from Fortran
 [f2c](https://github.com/juanjosegarciaripoll/f2c): convert Fortran 77 to C
