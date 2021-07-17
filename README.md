@@ -115,6 +115,12 @@ from sourceryinstitute
 [vim-findent](https://github.com/cradesto/vim-findent): Vim plugin for Findent (indent fortran sources), by cradesto
 
 ### Translation from Fortran
+[f2c](https://github.com/juanjosegarciaripoll/f2c): convert Fortran 77 to C
+
+[f2j](https://github.com/jonathanschilling/f2j): translate Fortran 77 to Java, especially for BLAS, LAPACK and ARPACK
+
+[f4go](https://github.com/Konstantin8105/f4go): Transpiling Fortran code to golang code, by Konstantin8105
+
 [fortran2julia](https://github.com/algorithmx/fortran2julia): Python script to translate Fortran 90 to Julia, by algorithmx
 
 ### Translation to Fortran
