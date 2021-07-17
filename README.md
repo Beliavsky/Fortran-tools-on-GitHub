@@ -120,6 +120,8 @@ from sourceryinstitute
 [K-scope](https://github.com/K-scope/K-scope): source code analysis tool with graphical user interface that visualizes program structures for Fortran 90 and FORTRAN 77 source code. This tool simply visualizes call tree from AST based on compiler's static analysis.
 
 ### Text Editors, Integrated Development Environments, and Plugins
+[linter-gfortran](https://github.com/AtomLinter/linter-gfortran): linting Fortran code in [Atom](https://github.com/atom) with gfortran
+
 [Emacs](https://github.com/emacs-mirror/emacs): extensible, customizable, free/libre text editor. Download [here](https://www.gnu.org/software/emacs/download.html)
 
 [Fortran Language Server](https://github.com/hansec/fortran-language-server): A Fortran implementation of the Language Server Protocol using Python (2.7+ or 3.0+), by hansec. Editor extensions using this language server to provide autocomplete and other IDE-like functionality are available for Atom, Visual Studio Code, Visual Studio, (Neo)vim, and Emacs.
