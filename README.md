@@ -107,6 +107,8 @@ from sourceryinstitute
 ### Static Analysis
 [camfort](https://github.com/camfort/camfort): refactoring and verification tool for scientific Fortran programs. It currently supports Fortran 66, 77, and 90 with various legacy extensions.
 
+[flint](https://github.com/JonasToth/flint): Little linter for Fortran, with static analysis and formatting, by JonasToth
+
 [fortlint](https://github.com/ratnania/fortlint): Fortran static source code analysis for more secured and bug free applications
 
 [fortrancallgraph](https://github.com/fortesg/fortrancallgraph): static source code analysis for Fortran, tracking variables in a routine's callgraph, from fortesg
