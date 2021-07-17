@@ -116,7 +116,7 @@ from sourceryinstitute
 
 [vimf90](https://github.com/rudrab/vimf90): Fortran ide for vim
 
-[vim-findent](https://github.com/cradesto/vim-findent): vim plugin for Findent (indent fortran sources), by cradesto
+[vim-findent](https://github.com/cradesto/vim-findent): vim plugin for [Findent]((https://github.com/MFTabriz/findent), which indents Fortran sources, by cradesto
 
 ### Translation from Fortran
 [f2c](https://github.com/juanjosegarciaripoll/f2c): convert Fortran 77 to C
