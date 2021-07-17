@@ -7,6 +7,7 @@
 * [Interoperability](#interoperability)
 * [Parallel Programming](#parallel-programming)
 * [Preprocessors](#preprocessors)
+* [Refactoring](#refactoring)
 * [Static Analysis](#static-analysis)
 * [Text Editors, Integrated Development Environments, and Plugins](#text-editors-integrated-development-environments-and-plugins)
 * [Translation from Fortran](#translation-from-fortran)
