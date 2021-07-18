@@ -189,8 +189,6 @@ from sourceryinstitute
 
 [FortranTestGenerator](https://github.com/fortesg/fortrantestgenerator): or automatically generating unit tests for subroutines of existing Fortran applications based on an approach called Capture & Replay, from fortesg
 
-[FORTRAN77_to_Fortran90](https://github.com/Koushikphy/FORTRAN77_to_Fortran90): converts old fixed source FORTRAN 77 code to free form Fortran 90 code using Python, by Koushikphy
-
 [fytest](https://github.com/aradi/fytest): lightweight unit testing framework for Fortran, by aradi. Thanks to its header-only design, it can be easily bundled with any Fortran project without creating extra dependencies.
 
 [irep](https://github.com/LLNL/irep): tool for filling C/C++ or Fortran data structures from Lua input tables, from LLNL
