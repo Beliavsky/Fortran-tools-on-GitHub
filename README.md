@@ -3,6 +3,7 @@
 * [Automatic Documentation](#automatic-documentation)
 * [Build Tools](#build-tools)
 * [Compilers](#compilers)
+* [Emacs and Plugins](#emacs-and-plugins)
 * [Fixed to Free Source Form Conversion](#fixed-to-free-source-form-conversion)
 * [Indentation and Formatting](#indentation-and-formatting)
 * [Interoperability](#interoperability)
@@ -53,6 +54,12 @@
 [ROSE](https://github.com/rose-compiler/rose): compiler infrastructure to build source-to-source program transformation and analysis tools for large-scale C (C89 and C98), C++ (C++98 and C++11), UPC, Fortran (77/95/2003), OpenMP, Java, Python and PHP applications
 
 [xcc-project](https://github.com/JianpingZeng/xcc-project): C/C++/Fortran compiler collection written in Java, by JianpingZeng
+
+### Emacs and Plugins
+[Emacs](https://github.com/emacs-mirror/emacs): extensible, customizable, free text editor. Download [here](https://www.gnu.org/software/emacs/download.html).
+
+[fortpy](https://github.com/rosenbrockc/fortpy): Python Emacs Intellisense and Unit Testing Support for Fortran, by rosenbrockc and wsmorgan
+
 
 ### Fixed to Free Source Form Conversion
 [f2f](https://github.com/MRedies/f2f_mirror): Perl script which does much of the tedious work of converting FORTRAN 77 source code into modern Fortran, by Colby Lemon
@@ -140,9 +147,6 @@ from sourceryinstitute
 [Simple Lint GitHub Action (simple_lint)](https://github.com/NOAA-GFDL/simple_lint): runs simple lint-like actions on files in a git repository, from NOAA-GFDL. The current list of lint actions are to check for trailing whitespace, check Fortran files for use of tab characters, and check Fortran files for lines longer then a specified length.
 
 ### Text Editors, Integrated Development Environments, and Plugins
-[Emacs](https://github.com/emacs-mirror/emacs): extensible, customizable, free/libre text editor. Download [here](https://www.gnu.org/software/emacs/download.html). Extensions include
-   [fortpy](https://github.com/rosenbrockc/fortpy): Python Emacs Intellisense and Unit Testing Support for Fortran
-
 [linter-gfortran](https://github.com/AtomLinter/linter-gfortran): linting Fortran code in [Atom](https://github.com/atom) with gfortran
 
 [Fortran Language Server](https://github.com/hansec/fortran-language-server): A Fortran implementation of the Language Server Protocol using Python (2.7+ or 3.0+), by hansec. Editor extensions using this language server to provide autocomplete and other IDE-like functionality are available for Atom, Visual Studio Code, Visual Studio, (Neo)vim, and Emacs.
