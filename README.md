@@ -9,6 +9,7 @@
 * [Interoperability](#interoperability)
 * [Parallel Programming](#parallel-programming)
 * [Preprocessors](#preprocessors)
+* [Profiling](#profiling)
 * [Refactoring](#refactoring)
 * [Static Analysis](#static-analysis)
 * [Text Editors, Integrated Development Environments, and Plugins](#text-editors-integrated-development-environments-and-plugins)
@@ -125,6 +126,11 @@ from sourceryinstitute
 [fypp](https://github.com/aradi/fypp): Python-powered preprocessor, by aradi. It can be used for any programming languages but its primary aim is to offer a Fortran preprocessor, which helps to extend Fortran with condititional compiling and template metaprogramming capabilities
 
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
+
+### Profiling
+[Caliper](https://github.com/LLNL/Caliper): library to integrate performance profiling capabilities into applications, from LANL. To use Caliper, developers mark code regions of interest using Caliper's annotation API. Applications can then enable performance profiling at runtime with Caliper's configuration API.
+
+[timemory](https://github.com/NERSC/timemory): performance measurement and analyis package with modular and reusable components which can be used to adapt to any existing C/C++ performance measurement and analysis API and is arbitrarily extendable by users within their application, from NERSC
 
 ### Refactoring
 [Fortran Language Program Remodeling system (FLPR)](https://github.com/lanl/FLPR):  C++17 library for manipulating Fortran source code, from LANL. This package contains a "best effort" Fortran 2018 input parser for fixed and free form inputs, data structures for manipulating source code at the program unit, statement, and physical line levels, and sample applications that illustrate usage and provide some ideas as to how you could use the library.
