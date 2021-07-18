@@ -1,5 +1,6 @@
 ### Fortran tools on GitHub -- compilers, preprocessors, static analyzers, transpilers, and interoperability tools
 
+* [Automatic Documentation](#automatic-documentation)
 * [Build Tools](#build-tools)
 * [Compilers](#compilers)
 * [Fixed to Free Source Form Conversion](#fixed-to-free-source-form-conversion)
@@ -13,6 +14,11 @@
 * [Translation from Fortran](#translation-from-fortran)
 * [Translation to Fortran](#translation-to-fortran)
 * [Unclassified](#unclassified)
+
+### Automatic Documentation
+[f90tohtml](https://github.com/degeron/f90tohtml): Perl script to convert fortran source files into a hyperlinked web site
+
+[ford](https://github.com/Fortran-FOSS-Programmers/ford): Automatically generates FORtran Documentation from comments within the code, from Fortran-FOSS-Programmers
 
 ### Build Tools
 [FCM](https://github.com/metomi/fcm): modern Fortran build system + wrappers to Subversion for scientific software development, from metomi
@@ -178,8 +184,6 @@ from sourceryinstitute
 
 ### Unclassified
 [automates](https://github.com/ml4ai/automates): Automated Model Assembly from Text, Equations, and Software, from ml4ai
-
-[ford](https://github.com/Fortran-FOSS-Programmers/ford): Automatically generates FORtran Documentation from comments within the code, from Fortran-FOSS-Programmers
 
 [FortranTestGenerator](https://github.com/fortesg/fortrantestgenerator): or automatically generating unit tests for subroutines of existing Fortran applications based on an approach called Capture & Replay, from fortesg
 
