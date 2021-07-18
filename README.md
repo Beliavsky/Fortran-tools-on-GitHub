@@ -1,4 +1,4 @@
-### Fortran tools on GitHub -- compilers, preprocessors, static analyzers, transpilers, and interoperability tools
+### Fortran tools on GitHub
 
 * [Automatic Documentation](#automatic-documentation)
 * [Build Tools](#build-tools)
