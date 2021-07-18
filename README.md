@@ -3,7 +3,7 @@
 * [Automatic Documentation](#automatic-documentation)
 * [Build Tools](#build-tools)
 * [Compilers](#compilers)
-* [Emacs and Plugins](#emacs-and-plugins)
+* [Emacs Plugins](#emacs-and-plugins)
 * [Fixed to Free Source Form Conversion](#fixed-to-free-source-form-conversion)
 * [Indentation and Formatting](#indentation-and-formatting)
 * [Interoperability](#interoperability)
@@ -56,7 +56,7 @@
 
 [xcc-project](https://github.com/JianpingZeng/xcc-project): C/C++/Fortran compiler collection written in Java, by JianpingZeng
 
-### Emacs and Plugins
+### Emacs Plugins
 [align-f90](https://github.com/jannisteunissen/align-f90): alignment support for Fortran 90 in Emacs, by jannisteunissen
 
 [Emacs](https://github.com/emacs-mirror/emacs): extensible, customizable, free text editor. Download [here](https://www.gnu.org/software/emacs/download.html).
