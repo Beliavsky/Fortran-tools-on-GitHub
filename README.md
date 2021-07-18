@@ -203,7 +203,7 @@ from sourceryinstitute
 ### Unclassified
 [automates](https://github.com/ml4ai/automates): Automated Model Assembly from Text, Equations, and Software, from ml4ai
 
-[FortranTestGenerator](https://github.com/fortesg/fortrantestgenerator): or automatically generating unit tests for subroutines of existing Fortran applications based on an approach called Capture & Replay, from fortesg
+[FortranTestGenerator](https://github.com/fortesg/fortrantestgenerator): automatically generates unit tests for subroutines of existing Fortran applications based on an approach called Capture & Replay, from fortesg
 
 [fytest](https://github.com/aradi/fytest): lightweight unit testing framework for Fortran, by aradi. Thanks to its header-only design, it can be easily bundled with any Fortran project without creating extra dependencies.
 
