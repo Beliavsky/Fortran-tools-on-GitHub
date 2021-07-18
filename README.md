@@ -3,7 +3,7 @@
 * [Automatic Documentation](#automatic-documentation)
 * [Build Tools](#build-tools)
 * [Compilers](#compilers)
-* [Emacs Plugins](#emacs-and-plugins)
+* [Emacs Plugins](#emacs-plugins)
 * [Fixed to Free Source Form Conversion](#fixed-to-free-source-form-conversion)
 * [Indentation and Formatting](#indentation-and-formatting)
 * [Interoperability](#interoperability)
