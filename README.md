@@ -183,6 +183,8 @@ from sourceryinstitute
 
 [Modern-Fortran](https://github.com/eirik-kjonstad/modern-fortran-syntax): language syntax for highlighting of Fortran code in [Sublime Text](https://www.sublimetext.com/), by eirik-kjonstad. It highlights modern Fortran (Fortran 90 and newer) and incorporates features introduced in Fortran 2003, 2008, and 2018.
 
+[neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
+
 [vim](https://github.com/vim/vim): improved version of the UNIX editor Vi. Many new features have been added: multi-level undo, syntax highlighting, command line history, on-line help, spell checking, filename completion, block operations, script language, etc. Download [here](https://www.vim.org/download.php). 
 
 [vimf90](https://github.com/rudrab/vimf90): Fortran ide for vim
