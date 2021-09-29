@@ -124,6 +124,8 @@
 
 [gpufort](https://github.com/ROCmSoftwarePlatform/gpufort): source-to-source translation tool for CUDA Fortran and Fortran+X in the spirit of [hipify](https://github.com/ROCm-Developer-Tools/HIPIFY)
 
+[hip-fortran](https://github.com/FluidNumerics/hip-fortran): Fortran layer for AMD HIP to enable GPU acceleration on Nvidia and AMD GPUs, by Joe Schoonover. 
+
 [hipfort](https://github.com/ROCmSoftwarePlatform/hipfort): Fortran Interface For GPU Kernel Libraries
 
 [mpich](https://github.com/pmodels/mpich): high-performance and widely portable implementation of the
