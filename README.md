@@ -144,6 +144,8 @@ from sourceryinstitute
 ### Profiling
 [Caliper](https://github.com/LLNL/Caliper): library to integrate performance profiling capabilities into applications, from LANL. To use Caliper, developers mark code regions of interest using Caliper's annotation API. Applications can then enable performance profiling at runtime with Caliper's configuration API.
 
+[Quasi-Aspect-Weaving Approach (QAWA) Fortran Code Profiler](https://github.com/SokolAK/QAWA-Fortran-Code-Profiler): Python-based framework for profiling Fortran source code, by Adam K. Sokół. One can use it to track the control flow, show call chains and measure the execution time of procedures.
+
 [timemory](https://github.com/NERSC/timemory): performance measurement and analyis package with modular and reusable components which can be used to adapt to any existing C/C++ performance measurement and analysis API and is arbitrarily extendable by users within their application, from NERSC
 
 ### Refactoring
