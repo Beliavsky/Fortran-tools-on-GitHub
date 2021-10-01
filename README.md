@@ -205,6 +205,8 @@ from sourceryinstitute
 
 [neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
 
+[SublimeLinterFortran](https://github.com/Panadestein/SublimeLinterFortran): linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to gfortran, by Ramón L. Panadés-Barrueta and Tejas Shetty. It will be used with files that have free format Fortran syntax. 
+
 [vim](https://github.com/vim/vim): improved version of the UNIX editor Vi. Many new features have been added: multi-level undo, syntax highlighting, command line history, on-line help, spell checking, filename completion, block operations, script language, etc. Download [here](https://www.vim.org/download.php). 
 
 [vimf90](https://github.com/rudrab/vimf90): Fortran ide for vim
