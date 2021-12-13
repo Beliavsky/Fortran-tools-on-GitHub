@@ -8,7 +8,7 @@
 * [Indentation and Formatting](#indentation-and-formatting)
 * [Interoperability](#interoperability)
 * [Parallel Programming](#parallel-programming)
-* [Preprocessors](#preprocessors)
+* [Preprocessors and Code Generation](#preprocessors-and-code-generation)
 * [Profiling](#profiling)
 * [Refactoring](#refactoring)
 * [Static Analysis](#static-analysis)
@@ -154,7 +154,9 @@ MPI-3.1 standard from the Argonne National Laboratory
 [OpenCoarrays](https://github.com/sourceryinstitute/opencoarrays): supports Fortran 2018 compilers by providing a parallel application binary interface (ABI) that abstracts away the underlying parallel programming model, which can be the Message Passing Interface (MPI) or OpenSHMEM, 
 from sourceryinstitute
 
-### Preprocessors
+### Preprocessors and Code Generation
+[f90 do nest](https://github.com/hattom/f90_do_nest): Python script to generated deeply nested do loops in Fortran, by Thomas Hayward-Schneider. It will generate "classical" nested do/enddo in f90code.F90 and also a do concurrent version in f90code_conc.F90.
+
 [fortiel](https://github.com/Jhuighuy/fortiel): Fortran preprocessor and metaprogramming engine, by Jhuighuy
 
 [fypp](https://github.com/aradi/fypp): Python-powered preprocessor, by aradi. It can be used for any programming languages but its primary aim is to offer a Fortran preprocessor, which helps to extend Fortran with condititional compiling and template metaprogramming capabilities
