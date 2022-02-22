@@ -160,6 +160,8 @@ MPI-3.1 standard from the Argonne National Laboratory
 [OpenCoarrays](https://github.com/sourceryinstitute/opencoarrays): supports Fortran 2018 compilers by providing a parallel application binary interface (ABI) that abstracts away the underlying parallel programming model, which can be the Message Passing Interface (MPI) or OpenSHMEM, 
 from sourceryinstitute
 
+[Traits Static Analyzer (TSAR)](https://github.com/dvm-system/tsar): part of a system for automated parallelization [SAPFOR](https://github.com/dvm-system/sapfor). The main goal of analyzer is to determine data dependences, privatizable, reduction and induction variables and other traits of analyzed program which could be helpful to parallelize program in automated way. 
+
 ### Preprocessors and Code Generation
 [f90 do nest](https://github.com/hattom/f90_do_nest): Python script to generated deeply nested do loops in Fortran, by Thomas Hayward-Schneider. It will generate "classical" nested do/enddo in f90code.F90 and also a do concurrent version in f90code_conc.F90.
 
