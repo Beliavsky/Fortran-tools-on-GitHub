@@ -40,6 +40,8 @@
 
 [Fortran Package Manager (fpm)](https://github.com/fortran-lang/fpm): package manager and build system for Fortran, from fortran-lang. Documentation is [here](https://awvwgk.github.io/fpm-docs/en/index.html)
 
+[Fortran-reducer](https://github.com/IlyaShein/Fortran-reducer): takes a Fortran file that has a property of interest and automatically builds a hierarchy of used modules in that file and generates a compile line for all files, by Ilya Shein
+
 [jams_makefile](https://github.com/mcuntz/jams_makefile): provides a portable, versatile way of compiling Fortran, C, C++, and mixed projects, by mcuntz
 
 [makedepf90](https://github.com/outpaddling/makedepf90): generates make dependencies for Fortran code, by Erik Edelman
