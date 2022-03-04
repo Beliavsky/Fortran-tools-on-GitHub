@@ -75,6 +75,8 @@
 
 [ompi](https://github.com/open-mpi/ompi): open source Message Passing Interface (MPI) implementation that is developed and maintained by a consortium of academic, research, and industry partners
 
+[Quickstart Fortran on Windows](https://github.com/LKedward/quickstart-fortran): easy Windows installer and launcher for GFortran and the Fortran Package Manager, by Laurence Kedward. The optimized OpenBLAS library is included with the GCC installation.
+
 [ROSE](https://github.com/rose-compiler/rose): compiler infrastructure to build source-to-source program transformation and analysis tools for large-scale C (C89 and C98), C++ (C++98 and C++11), UPC, Fortran (77/95/2003), OpenMP, Java, Python and PHP applications
 
 [xcc-project](https://github.com/JianpingZeng/xcc-project): C/C++/Fortran compiler collection written in Java, by JianpingZeng
