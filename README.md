@@ -128,6 +128,8 @@
 
 [IndentPatternFortran](https://github.com/JHenneberg/IndentPatternFortran): general indentation patterns for Fortran, by JHenneberg
 
+[Stylist](https://github.com/MetOffice/stylist): code style checking tool built on a framework which supports multiple styles across multiple languages, by Matthew Hambley et al.
+
 ### Interoperability
 [BindTo](https://cbfortran.sourceforge.io/bindto/): tries to make the communication with Fortran code from the outside more easily by automatically generating the required wrapping code. An intrinsic “iso_c_binding” module is used. In addition to the exposing Fortran code to C, BindTo can generate Cython files, which enable calling Fortran from Python. 
 
