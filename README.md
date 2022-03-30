@@ -36,6 +36,8 @@
 
 [fortrandep](https://github.com/orvedahl/fortrandep): Python tool to determine Makefile dependencies for a Fortran project, by Ryan Orvedahl
 
+[fortranMakeUtils](https://github.com/deniseiras/fortranMakeUtils): Python 2.7 script for generating dependency tree and makefile, by deniseiras. Another script lowercases most Fortran keywords
+
 [Fortran Package Manager for Visual Studio](https://github.com/everythingfunctional/fpm-for-VS): adds options and menu entries for building, running and testing your Fortran project using the Fortran Package Manager (fpm), by everythingfunctional
 
 [Fortran Package Manager (fpm)](https://github.com/fortran-lang/fpm): package manager and build system for Fortran, from fortran-lang. Documentation is [here](https://awvwgk.github.io/fpm-docs/en/index.html)
