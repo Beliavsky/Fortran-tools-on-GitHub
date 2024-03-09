@@ -151,6 +151,8 @@
 
 [gfort2py](https://github.com/rjfarmer/gfort2py): library to allow calling Fortran code compiled with gfortran from Python 2.7 or Python 3, by Robert Farmer and Ondřej Čertík
 
+[mwrap](https://github.com/zgimbutas/mwrap): interface generation system in the spirit of SWIG or matwrap, by Zydrunas Gimbutas et al. From a set of augmented MATLAB script files, MWrap will generate a MEX gateway to desired C/C++/Fortran function calls and MATLAB function files to access that gateway.
+
 [shroud](https://github.com/LLNL/shroud): creates a Fortran or Python interface to a C or C++ library, from LANL. It can also create a C API for a C++ library.
 
 ### Parallel Programming
