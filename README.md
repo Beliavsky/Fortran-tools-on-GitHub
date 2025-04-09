@@ -212,6 +212,8 @@ from sourceryinstitute
 
 [fortlint](https://github.com/ratnania/fortlint): Fortran static source code analysis for more secured and bug free applications
 
+[FortranAnalyser](https://fortrananalyser.ephyslab.uvigo.es/): multi-language static analysis tool cross-platform under GPLv3 licence that measures the quality of the software for maintenance and refactoring for all versions of Fortran. An associated paper is [Assessing and improving the quality of Fortran code in scientific software: FortranAnalyser](https://www.sciencedirect.com/science/article/pii/S2665963824000800), by Michael García-Rodríguez et al., <i>Software Impacts</i> (2024).
+
 [fortrancallgraph](https://github.com/fortesg/fortrancallgraph): static source code analysis for Fortran, tracking variables in a routine's callgraph, from fortesg
 
 [fortran-callgraph](https://github.com/hydro-jules/fortran-callgraph): Tool to create call graphs from JULES source code
